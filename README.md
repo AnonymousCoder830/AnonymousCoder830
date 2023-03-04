@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnonymousCoder830
-- 👀 I’m interested in idk coding
-- 🌱 I’m currently learning js and python
+- 👀 I’m interested in programming and videogames
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
